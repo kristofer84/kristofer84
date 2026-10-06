@@ -29,6 +29,7 @@ Also work with: email infrastructure (Postfix, Dovecot, DMARC), OpenWrt, Home As
 **Smaller things**
 
 - [**analog-timestamp-parser**](https://github.com/kristofer84/analog-timestamp-parser) – Extracts 7-segment-style timestamps from images (old digital cameras, CCTV).
+- [**ber-spiris**](https://github.com/kristofer84/ber-spiris) – Reconciles fee underlays against a Spiris accounts-receivable list. Runs entirely in the browser; Swedish.
 - [**star-battle-solver**](https://github.com/kristofer84/star-battle-solver) – Solver for Star Battle puzzles.
 
 #### Gists worth a look
