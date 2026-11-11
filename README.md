@@ -26,6 +26,10 @@ Also work with: email infrastructure (Postfix, Dovecot, DMARC), OpenWrt, Home As
 - [**mcp-postgres**](https://github.com/kristofer84/mcp-postgres) – MCP server for PostgreSQL, published on [npm](https://www.npmjs.com/package/mcp-postgres). Handles AWS RDS certificate setup automatically.
 - [**dmarc-parser**](https://github.com/kristofer84/dmarc-parser) – Parses DMARC aggregate reports into a readable format.
 
+**Teaching and visualisation**
+
+- [**llm-course**](https://github.com/kristofer84/llm-course) – Interactive course on how a language model works from the inside: tokens, the transformer block, attention, the KV cache and vLLM. One self-contained HTML file, bilingual (Swedish/English), with every number computed for Llama-3-8B. [Read it here](https://kristofer84.github.io/llm-course/).
+
 **Smaller things**
 
 - [**analog-timestamp-parser**](https://github.com/kristofer84/analog-timestamp-parser) – Extracts 7-segment-style timestamps from images (old digital cameras, CCTV).
